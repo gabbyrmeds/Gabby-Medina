@@ -44,5 +44,4 @@ def main():
     print(f"\nYour overall grade is: {total_score:.2f}")
     print(f"Your letter grade is: {letter_grade}")
 
-if __name__ == "__main__":
-    main()
+main()
